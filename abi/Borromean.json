@@ -1,0 +1,31 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "uint256[2][][]",
+        "name": "rings",
+        "type": "uint256[2][][]"
+      },
+      {
+        "internalType": "uint256[][]",
+        "name": "tees",
+        "type": "uint256[][]"
+      },
+      {
+        "internalType": "uint256[2]",
+        "name": "e0Message",
+        "type": "uint256[2]"
+      }
+    ],
+    "name": "VerifyProof",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
